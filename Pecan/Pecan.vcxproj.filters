@@ -27,9 +27,15 @@
     <ClInclude Include="src\Pecan\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Pecan\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Pecan\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Pecan\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

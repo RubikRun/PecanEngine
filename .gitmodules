@@ -1,0 +1,3 @@
+[submodule "Pecan/vendor/spdlog"]
+	path = Pecan/vendor/spdlog
+	url = https://github.com/gabime/spdlog

@@ -4,5 +4,6 @@
 
 #include "Pecan/Core.h"
 #include "Pecan/Application.h"
+#include "Pecan/Log.h"
 
 #include "Pecan/EntryPoint.h"
